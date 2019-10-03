@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uexeciyahk.stairhook.com/sitemap.xml
